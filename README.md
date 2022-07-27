@@ -19,15 +19,15 @@ php artisan migrate
 ```
 - Xem những tệp được tạo ra : Vào Generated Controller Files:
 
-![Container](a.png)
+![Container](b.png)
 
 Tệp router đã tạo:
 
-![Container](a1.png)
+![Container](b1.png)
 
  Blade Files:
  
- ![Container](a2.png)
+ ![Container](b2.png)
  
  ## 2.Run Laravel App:
  ```Dockerfile
@@ -35,7 +35,7 @@ php artisan serve
 ```
 - Vào http://localhost:8000/
 
- ![Container](a3.png)
- ![Container](a4.png)
- ![Container](a5.png)
- ![Container](a6.png)
+ ![Container](b3.png)
+ ![Container](b4.png)
+ ![Container](b5.png)
+ ![Container](b6.png)
